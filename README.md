@@ -1,1 +1,1 @@
-# image_recognition_ai
+# Pantry image_recognition_ai
